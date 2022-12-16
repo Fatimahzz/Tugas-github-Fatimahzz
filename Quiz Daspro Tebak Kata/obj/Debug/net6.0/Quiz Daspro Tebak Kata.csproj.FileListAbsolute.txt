@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\bin\Debug\net6.0\Quiz Daspro Tebak Kata.exe
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\bin\Debug\net6.0\Quiz Daspro Tebak Kata.deps.json
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\bin\Debug\net6.0\Quiz Daspro Tebak Kata.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\bin\Debug\net6.0\Quiz Daspro Tebak Kata.dll
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\bin\Debug\net6.0\Quiz Daspro Tebak Kata.pdb
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.dll
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\refint\Quiz Daspro Tebak Kata.dll
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.pdb
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\Quiz Daspro Tebak Kata.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Quiz Daspro Tebak Kata\obj\Debug\net6.0\ref\Quiz Daspro Tebak Kata.dll
