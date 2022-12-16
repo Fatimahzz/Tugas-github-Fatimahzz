@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\bin\Debug\net6.0\Project Adventure Game.exe
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\bin\Debug\net6.0\Project Adventure Game.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\bin\Debug\net6.0\Project Adventure Game.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\bin\Debug\net6.0\Project Adventure Game.dll
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\bin\Debug\net6.0\Project Adventure Game.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.dll
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\refint\Project Adventure Game.dll
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\Project Adventure Game.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\Project Adventure Game\obj\Debug\net6.0\ref\Project Adventure Game.dll
