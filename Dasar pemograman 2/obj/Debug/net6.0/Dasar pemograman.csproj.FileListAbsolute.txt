@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Dasar pemograman\bin\Debug\net6.0\Dasar pemograman.exe
+C:\Users\LENOVO\Desktop\Dasar pemograman\bin\Debug\net6.0\Dasar pemograman.deps.json
+C:\Users\LENOVO\Desktop\Dasar pemograman\bin\Debug\net6.0\Dasar pemograman.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dasar pemograman\bin\Debug\net6.0\Dasar pemograman.dll
+C:\Users\LENOVO\Desktop\Dasar pemograman\bin\Debug\net6.0\Dasar pemograman.pdb
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.dll
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\refint\Dasar pemograman.dll
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.pdb
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\Dasar pemograman.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Dasar pemograman\obj\Debug\net6.0\ref\Dasar pemograman.dll

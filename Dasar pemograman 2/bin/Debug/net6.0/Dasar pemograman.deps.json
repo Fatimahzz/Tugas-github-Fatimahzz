@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dasar pemograman/1.0.0": {
+        "runtime": {
+          "Dasar pemograman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dasar pemograman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
